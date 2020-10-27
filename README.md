@@ -4,6 +4,8 @@ This budget app is a progressive web application, which means it can be installe
 
 Deployed app: [https://spacialfray-budget-pwa.herokuapp.com/](https://spacialfray-budget-pwa.herokuapp.com/)
 
+![Screen shot](readme_ss.png)
+
 ---
 
 ## License
